@@ -1,0 +1,23 @@
+.nav2{
+    background-color: #FFCF9D;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav2 button{
+    font-weight: 500;
+}
+nav2 Link{
+   
+    text-decoration: none;
+    color: black;
+}
+.link{
+    text-decoration: none;
+    color:black;
+    font-weight: 500;
+}
+.link:hover{
+    color: gray;
+}
